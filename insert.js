@@ -25,6 +25,8 @@ var est_superieur = function(a, b){
  // liste = ["carotte", "table", "radis", "ordinateur"];
  console.log(tri(tableau, est_superieur));
 
+ 
+
 a
 
 

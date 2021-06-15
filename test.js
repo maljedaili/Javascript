@@ -16,3 +16,7 @@ function numberSum(N) {
       return total;
   }
   console.log(numberSum(N))
+
+
+
+  

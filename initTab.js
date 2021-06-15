@@ -28,3 +28,6 @@
 console.log(inittab(20 , "Moinv"))
 
 
+
+
+
